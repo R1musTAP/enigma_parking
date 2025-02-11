@@ -124,8 +124,3 @@ Describe the problem in detail
 
 ## Credits
 Developed by [R1musTAP].
-
-
-Configuración de Base de Datos
-
-Ejecuta la siguiente consulta SQL en tu base de datos:
